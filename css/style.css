@@ -1,0 +1,77 @@
+.sidebar{
+  position: fixed;
+  width: 100px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: rgb(240,240,240)
+}
+
+a{
+  color: black;
+  font-family: 'Roboto';
+  font-size: 15px
+}
+
+a:hover{
+  background-color: gold;
+  color: black;
+  padding: 10px 15px;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  font-family: 'Roboto';
+  font-style: bold;
+  font-size: 20px;
+
+}
+
+.icon{
+  font-size: 30px
+}
+
+.container{
+  width: 700px;
+  margin:20px auto;
+  text-align: center;
+}
+
+.card{
+  margin: 30px;
+  padding: 20px;
+  border-radius: 4px;
+  background-color: rgb(240,240,240);
+  box-shadow: 0 10px 30px rgba(0,0,0,.5)
+}
+
+a{
+  text-decoration: none;
+}
+
+body{
+  font-family: 'Comic Neue', cursive;
+  font-size: 15px;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-style: bold;
+  font-size: 40px
+}
+
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+}
+
+p{
+  text-align: justify;
+}
+
+.no-button{
+  list-style: none;
+}
+
+.images{
+width: 500px;
+border-radius: 5px;
+}
